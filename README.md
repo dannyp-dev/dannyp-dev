@@ -1,8 +1,8 @@
 <div align="center">
 
-# hey, I'm Danny
+# Hi, my name is Danny
 
-I build interactive software and tools that make complex ideas easier to explore.
+In my free time I like to sleep, otherwise, I'm probably on my computer learning new programming concepts or actively participating in building new software and tools.
 
 [Portfolio](https://dannyp-dev.github.io/) · [Algorithm Studio](https://dannyp-dev.github.io/Algorithm_Visualizer/)
 
